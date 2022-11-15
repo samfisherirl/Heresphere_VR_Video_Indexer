@@ -1,7 +1,7 @@
 # Heresphere_VR_Video_Indexer
 Heresphere_VR_Video_Indexer
 
-Index all videos on a page. Places in file next to "Mainer.exe" upon completion. 
+Index all videos on a EP*RNER page. Places in file next to "Mainer.exe" upon completion. 
 
 The plan is to have this file get uploaded to a directory online the user can use. Right now I upload it to my own github and bookmark it on Heresphere. 
 
